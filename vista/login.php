@@ -41,6 +41,7 @@
                     <div class="one">
                         <h2><span>Parcial 1</span></h2>
                         <p>Integrantes: Cristian Gomez Florez</p>
+                        <p>Camila Espinoza</p>
                         <p>Parcial Biblioteca</p>
                         <p>Programación distribuida y paralela</p>
                     </div>
